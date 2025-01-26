@@ -1,0 +1,902 @@
+[
+    {
+        "entry": "distinguish",
+        "meaning": "...を区別する / 〈物事が〉…の特徴である / 《通例canと共に》…をはっきり見る,聞く / 〈自分〉を目立たせる",
+        "ipa": "/dɪˈstɪŋɡwɪʃ/",
+        "word_id": "12390",
+        "example_sentence": "It is important to distinguish between right and wrong.",
+        "translated_sentence": "正しいことと間違ったことを区別することは重要です。",
+        "sentence_id": "2997728"
+    },
+    {
+        "entry": "massive",
+        "meaning": "【形容詞】非常に大きな",
+        "ipa": "/mæsɪv/",
+        "word_id": "26033",
+        "example_sentence": "The elephant is massive.",
+        "translated_sentence": "象は大きいです。",
+        "sentence_id": "3001249"
+    },
+    {
+        "entry": "greet",
+        "meaning": "【動詞】あいさつする",
+        "ipa": "/ɡriːt/",
+        "word_id": "18560",
+        "example_sentence": "I greet my friends every morning.",
+        "translated_sentence": "私は毎朝友達に挨拶をします。",
+        "sentence_id": "2999322"
+    },
+    {
+        "entry": "period",
+        "meaning": "〈C〉(あることが続く) 期間 / (歴史的な) 時代 / (試合の)一区切り / 《おもに米》ピリオド, 終止符",
+        "ipa": "/ˈpɪəriəd/",
+        "word_id": "31326",
+        "example_sentence": "The period of the dinosaurs lasted [[up to]] 65 million years.",
+        "translated_sentence": "恐竜の時代は6,500万年まで続いたと言われています。",
+        "sentence_id": "1623652"
+    },
+    {
+        "entry": "crucial",
+        "meaning": "重要な / 決定的な / 必須の / 不可欠な",
+        "ipa": "/ˈkruːʃəl/",
+        "word_id": "10231",
+        "example_sentence": "This information is crucial for the success of the project.",
+        "translated_sentence": "この情報はプロジェクトの成功に重要です。",
+        "sentence_id": "2997166"
+    },
+    {
+        "entry": "transition",
+        "meaning": "〈U/C〉《...から...への》移行, 変遷《from ... to ...》 / 《...から...への》過渡期《from ... to ...》",
+        "ipa": "/trænˈzɪʃən/",
+        "word_id": "44018",
+        "example_sentence": "The transition from summer to autumn is always beautiful.",
+        "translated_sentence": "夏から秋への移り変わりはいつも美しいです。",
+        "sentence_id": "3005913"
+    },
+    {
+        "entry": "competitive",
+        "meaning": "競争の, 競争による / 競争心の強い",
+        "ipa": "/kəmˈpɛtətɪv/",
+        "word_id": "8654",
+        "example_sentence": "She is very competitive and always wants to win.",
+        "translated_sentence": "彼女はとても競争心が強く、いつも勝ちたがっています。",
+        "sentence_id": "3009700"
+    },
+    {
+        "entry": "responsibility",
+        "meaning": "〈U〉責任があること / 〈C〉責任を負うべきこと, 責務",
+        "ipa": "/rɪˌspɑːnsəˈbɪləti/",
+        "word_id": "35836",
+        "example_sentence": "Taking responsibility for your actions is important.",
+        "translated_sentence": "自分の行動に責任を持つことは重要です。",
+        "sentence_id": "3003804"
+    },
+    {
+        "entry": "discussion",
+        "meaning": "〈U〉《...についての》議論, 討論, 検討《about, on ...》",
+        "ipa": "/dɪˈskʌʃən/",
+        "word_id": "12138",
+        "example_sentence": "The discussion about the new project lasted for hours.",
+        "translated_sentence": "新しいプロジェクトについての議論は数時間続きました。",
+        "sentence_id": "2997672"
+    },
+    {
+        "entry": "democratic",
+        "meaning": "民主主義の / (人・態度などが)民主的な",
+        "ipa": "/dɪˈmɑːkrətɪk/",
+        "word_id": "11312",
+        "example_sentence": "The country has a strong democratic tradition.",
+        "translated_sentence": "その国は強い民主主義の伝統を持っています。",
+        "sentence_id": "2997436"
+    },
+    {
+        "entry": "stick",
+        "meaning": "〈C〉棒, 棒切れ,枝 / (歩行用)ステッキ,杖  / 《~ of ...》 棒状《の...》 /《話》処罰,せっかん",
+        "ipa": "/stɪk/",
+        "word_id": "40982",
+        "example_sentence": "I found a stick on the ground.",
+        "translated_sentence": "地面にあった棒を見つけました。",
+        "sentence_id": "3005100"
+    },
+    {
+        "entry": "such",
+        "meaning": "《特定の種類・程度を示して》こんな,あんな / 《類似の種類・程度を示して》そんな,そのような / 《名詞の前にのみ用いて》とても / 《補語にのみ用いて》そのような",
+        "ipa": "/sʌtʃ/",
+        "word_id": "41620",
+        "example_sentence": "I have never seen such a beautiful sunset before.",
+        "translated_sentence": "私はこんな美しい夕日を見たことがありません。",
+        "sentence_id": "3005256"
+    },
+    {
+        "entry": "indication",
+        "meaning": "〈U〉《...を》指摘すること, 表示すること《of ...》 / 〈U/C〉表れ, 徴候, 兆し",
+        "ipa": "/ˌɪndɪˈkeɪʃən/",
+        "word_id": "21598",
+        "example_sentence": "The doctor gave me an indication of how long my recovery would take.",
+        "translated_sentence": "医者は私に回復にどれくらい時間がかかるかの指摘をしました。",
+        "sentence_id": "3000128"
+    },
+    {
+        "entry": "fund",
+        "meaning": "〈C〉《特定の目的のための》資金, 基金《for ...》 / 《a ~》(すぐに役立つ知職などの)蓄え,蓄積",
+        "ipa": "/fʌnd/",
+        "word_id": "17214",
+        "example_sentence": "I need to raise funds for my new business venture.",
+        "translated_sentence": "新しいビジネスベンチャーのために資金を集める必要があります。",
+        "sentence_id": "2998982"
+    },
+    {
+        "entry": "statement",
+        "meaning": "声明；供述",
+        "ipa": "/ˈsteɪtmənt/",
+        "word_id": "40806",
+        "example_sentence": "He made a statement to the police about the incident.",
+        "translated_sentence": "彼は事件について警察に供述した。",
+        "sentence_id": "3005051"
+    },
+    {
+        "entry": "morning",
+        "meaning": "〈C〉〈U〉朝,午前(午前0時または夜明けから正午まで)  / 〈U〉《the~》(物事の)始まり,夜明け,黎明(れいめい)《+of+名》  / 《名詞の前にのみ用いて》朝の",
+        "ipa": "/'mɔːrnɪŋ/",
+        "word_id": "27532",
+        "example_sentence": "The morning sun was so beautiful.",
+        "translated_sentence": "朝日が美しかった。",
+        "sentence_id": "1623586"
+    },
+    {
+        "entry": "rural",
+        "meaning": "田舎の, 農村の / 田舎風の / 農業の",
+        "ipa": "/ˈrʊərəl/",
+        "word_id": "36748",
+        "example_sentence": "I grew up in a rural area surrounded by fields and farms.",
+        "translated_sentence": "私は田舎の畑や農場に囲まれた地域で育ちました。",
+        "sentence_id": "3004019"
+    },
+    {
+        "entry": "folk",
+        "meaning": "〈C〉《米・しばしば複数形で》 人々 / 《話》 《one's ~》 家族 / 《古》民族 / 《話》《呼び掛けに用いて》皆さん",
+        "ipa": "/fəʊk/",
+        "word_id": "16396",
+        "example_sentence": "Now folks, let's go on.",
+        "translated_sentence": "さあ、みんな、先へ進もう。",
+        "sentence_id": "128708"
+    },
+    {
+        "entry": "hundred",
+        "meaning": "〈C〉(数の) 100 / 《複数形で》何百《もの…》, 多数《の…》 《of ...》 / 《米話》100ドル /《英話》100ポンド / 【形】100の / 《a ~》数多くの",
+        "ipa": "/ˈhʌn.dɹəd/",
+        "word_id": "20646",
+        "example_sentence": "There are a hundred people in the room.",
+        "translated_sentence": "部屋には百人います。",
+        "sentence_id": "2999887"
+    },
+    {
+        "entry": "inform",
+        "meaning": "《...を》〈人〉に知らせる《of ...》 / 《...の》情報を提供する, 《...を》密告する《on, upon, against ...》",
+        "ipa": "/ɪnˈfɔrm/",
+        "word_id": "21844",
+        "example_sentence": "I will inform him of the meeting.",
+        "translated_sentence": "私は彼に会議のことを知らせます。",
+        "sentence_id": "3000185"
+    },
+    {
+        "entry": "otherwise",
+        "meaning": "ほかの点では / そうでなければ, さもないと / 別の方法で",
+        "ipa": "/ˈʌðɚˌwaɪz/",
+        "word_id": "29888",
+        "example_sentence": "I don't like spicy food, but otherwise, I enjoy trying new dishes.",
+        "translated_sentence": "辛い食べ物は好きではありませんが、それを除けば新しい料理を試すのが楽しいです。",
+        "sentence_id": "3002291"
+    },
+    {
+        "entry": "judgment",
+        "meaning": "【名/U】判断力 / 【名/U/C】判断, 判定 / 判決 / 【名/C】《判断に基づく》 見解 《on ...》　裁判",
+        "ipa": "/ˈdʒʌdʒ.mənt/",
+        "word_id": "23093",
+        "example_sentence": "",
+        "translated_sentence": "",
+        "sentence_id": ""
+    },
+    {
+        "entry": "department",
+        "meaning": "〈C〉(政府・会社・学校などの組織の) 部門 / 《英》(官庁の)局 / (フランスなどの) 県,州",
+        "ipa": "/dɪˈpɑːrtmənt/",
+        "word_id": "11414",
+        "example_sentence": "The marketing department is responsible for promoting the company's products.",
+        "translated_sentence": "マーケティング部門は、会社の製品の宣伝を担当しています。",
+        "sentence_id": "2997471"
+    },
+    {
+        "entry": "external",
+        "meaning": "外側の, 外部の / (作用・動作などが) 外側からの",
+        "ipa": "/ɪkˈstɜːrnəl/",
+        "word_id": "14912",
+        "example_sentence": "The external walls of the building are made of glass.",
+        "translated_sentence": "建物の外壁はガラス製です。",
+        "sentence_id": "2998396"
+    },
+    {
+        "entry": "maintain",
+        "meaning": "〈ある状催・動作〉を維持する, を続ける / を主張する / 〈家族など〉を扶養する",
+        "ipa": "/mənˈteɪn/",
+        "word_id": "25565",
+        "example_sentence": "It is important to maintain a healthy lifestyle.",
+        "translated_sentence": "健康な生活を維持することは重要です。",
+        "sentence_id": "3001138"
+    },
+    {
+        "entry": "photograph",
+        "meaning": "写真を撮る",
+        "ipa": "/fəˈtɑːɡrɑːf/",
+        "word_id": "31696",
+        "example_sentence": "I love to photograph beautiful landscapes.",
+        "translated_sentence": "私は美しい風景を撮影するのが大好きです。",
+        "sentence_id": "3002737"
+    },
+    {
+        "entry": "section",
+        "meaning": "〈C〉(全体を構成する個々の) 部分,部品 / (内部構造を示す)断面図 / 〈U〉切断すること /",
+        "ipa": "/ˈsɛkʃən/",
+        "word_id": "37821",
+        "example_sentence": "This book is divided into 10 sections.",
+        "translated_sentence": "この本は１０つのセクションに分かれている。",
+        "sentence_id": "1623742"
+    },
+    {
+        "entry": "nevertheless",
+        "meaning": "【副詞】それにもかかわらず / 【接続副詞】しかしながら",
+        "ipa": "/nɛvərðəˈlɛs/",
+        "word_id": "28453",
+        "example_sentence": "She was tired; nevertheless, she continued working.",
+        "translated_sentence": "彼女は疲れていた。それにもかかわらず、彼女は仕事を続けた。",
+        "sentence_id": "1628002"
+    },
+    {
+        "entry": "remote",
+        "meaning": "遠い、遠隔の、離れた、かすかな、わずかな",
+        "ipa": "/rɪˈmoʊt/",
+        "word_id": "35574",
+        "example_sentence": "The lighthouse was just a remote speck in the distance.",
+        "translated_sentence": "灯台は遠くのかすかな点だけでした。",
+        "sentence_id": "2995398"
+    },
+    {
+        "entry": "trillion",
+        "meaning": "【名/C】(アメリカ・フランスでは) 兆 / (イギリス・ドイツでは)100京 / 《くだけて》無数",
+        "ipa": "/'trɪljən/",
+        "word_id": "44247",
+        "example_sentence": "The company's revenue reached a trillion dollars last year.",
+        "translated_sentence": "会社の収益は昨年、1兆ドルに達しました。",
+        "sentence_id": "3005966"
+    },
+    {
+        "entry": "agricultural",
+        "meaning": "農業の, 農耕の, 農学の",
+        "ipa": "/ˌæɡrɪˈkʌltʃərəl/",
+        "word_id": "864",
+        "example_sentence": "The agricultural sector plays a vital role in the country's economy.",
+        "translated_sentence": "農業部門は、国の経済において重要な役割を果たしています。",
+        "sentence_id": "2995884"
+    },
+    {
+        "entry": "precise",
+        "meaning": "【形容詞】正確な / 【動詞】正確に言う",
+        "ipa": "/pɹɪˈsaɪs/",
+        "word_id": "33021",
+        "example_sentence": "He gave a precise answer to the question.",
+        "translated_sentence": "彼は質問に正確な答えをした。",
+        "sentence_id": "3003049"
+    },
+    {
+        "entry": "elderly",
+        "meaning": "年配の,初老の / 《the ~》年配の人たち",
+        "ipa": "/ˈɛldərli/",
+        "word_id": "13592",
+        "example_sentence": "The elderly couple enjoys taking walks in the park every morning.",
+        "translated_sentence": "年配の夫婦は毎朝公園で散歩を楽しんでいます。",
+        "sentence_id": "2998060"
+    },
+    {
+        "entry": "impose",
+        "meaning": "【動詞】強制する、押しつける、課す",
+        "ipa": "/ɪmˈpoʊz/",
+        "word_id": "21236",
+        "example_sentence": "The government plans to impose new taxes on high-income earners.",
+        "translated_sentence": "政府は高所得者に新たな税金を課す予定です。",
+        "sentence_id": "3000037"
+    },
+    {
+        "entry": "live",
+        "meaning": "《名詞の前にのみ用いて》生きている / 活気のある / (問題などが)当面の / 燃えている / (弾丸などが)まだ爆発してない,未発の / まだ動いている,有効な / 電流が通じている / (放送が)生の,実況の",
+        "ipa": "/laɪv/",
+        "word_id": "24767",
+        "example_sentence": "I don't want to eat a live lobster.",
+        "translated_sentence": "私は生きたままのえびは食べたくない。",
+        "sentence_id": "69785"
+    },
+    {
+        "entry": "mature",
+        "meaning": "成熟した",
+        "ipa": "/məˈtʃʊr/",
+        "word_id": "26140",
+        "example_sentence": "She is a mature and responsible adult.",
+        "translated_sentence": "彼女は成熟した責任感のある大人です。",
+        "sentence_id": "3001276"
+    },
+    {
+        "entry": "province",
+        "meaning": "【名詞】州、地方",
+        "ipa": "/prɑːvɪns/",
+        "word_id": "33817",
+        "example_sentence": "He moved to a small province to escape the busy city life.",
+        "translated_sentence": "彼は忙しい都会の生活を逃れるために小さな州に引っ越しました。",
+        "sentence_id": "3003273"
+    },
+    {
+        "entry": "smooth",
+        "meaning": "(表面が) なめらかな, 平らな",
+        "ipa": "/smʊð/",
+        "word_id": "39556",
+        "example_sentence": "Her skin is smooth and flawless.",
+        "translated_sentence": "彼女の肌は滑らかで完璧です。",
+        "sentence_id": "3004716"
+    },
+    {
+        "entry": "expert",
+        "meaning": "〈C〉《...の》専門家, 熟練者《at, in, on ...》",
+        "ipa": "/ɪkˈspɜːrt/",
+        "word_id": "14827",
+        "example_sentence": "He is an expert in his field.",
+        "translated_sentence": "彼はその分野のエキスパートだ。",
+        "sentence_id": "2998365"
+    },
+    {
+        "entry": "broad",
+        "meaning": "幅の広い / 広大な / 寛大な / 広範囲にわたる",
+        "ipa": "/brɔːd/",
+        "word_id": "5288",
+        "example_sentence": "She has a broad knowledge of various subjects.",
+        "translated_sentence": "彼女はさまざまな科目について幅広い知識を持っています。",
+        "sentence_id": "3009032"
+    },
+    {
+        "entry": "additional",
+        "meaning": "付け加えた,追加の / 特別の",
+        "ipa": "/əˈdɪʃənəl/",
+        "word_id": "490",
+        "example_sentence": "I need to make an additional comment on the report.",
+        "translated_sentence": "私はレポートに追加のコメントを付け加える必要があります。",
+        "sentence_id": "2995763"
+    },
+    {
+        "entry": "previous",
+        "meaning": "《名詞の前にのみ用いて》前の, 先の, 以前の / 《補語にのみ用いて》《話》早まった,せっかちすぎる",
+        "ipa": "/pɹiːviəs/",
+        "word_id": "33302",
+        "example_sentence": "The previous owner of the house left behind some furniture.",
+        "translated_sentence": "その家の前の所有者が家具を残していった。",
+        "sentence_id": "3003121"
+    },
+    {
+        "entry": "throat",
+        "meaning": "〈C〉(気管・食道部分としての) のど / のど状の物, (容器などの)首",
+        "ipa": "/θroʊt/",
+        "word_id": "43244",
+        "example_sentence": "I have a sore throat.",
+        "translated_sentence": "私はのどが痛いです。",
+        "sentence_id": "3005772"
+    },
+    {
+        "entry": "currency",
+        "meaning": "〈C〉〈U〉通貨, 貨幣 / 〈U〉流通, 普及",
+        "ipa": "/ˈkɜːrənsi/",
+        "word_id": "10440",
+        "example_sentence": "I need to exchange my currency for euros.",
+        "translated_sentence": "私は通貨をユーロに両替する必要があります。",
+        "sentence_id": "2997221"
+    },
+    {
+        "entry": "stare",
+        "meaning": "〈自〉《...を》じっと見つめる《at, into ...》 / 〈他〉をじっと見つめる, を凝視する",
+        "ipa": "/stɛr/",
+        "word_id": "40762",
+        "example_sentence": "She stared at him in disbelief.",
+        "translated_sentence": "彼女は信じられないという思いで彼を見つめた。",
+        "sentence_id": "3005043"
+    },
+    {
+        "entry": "throughout",
+        "meaning": "\"【前置詞】～の至る所に",
+        "ipa": "",
+        "word_id": "",
+        "example_sentence": "",
+        "translated_sentence": "",
+        "sentence_id": ""
+    },
+    {
+        "entry": "【副詞】至始至終\"",
+        "meaning": "/θruːˈaʊt/",
+        "ipa": "43256",
+        "word_id": "She worked hard throughout the day.",
+        "example_sentence": "彼女は一日中一生懸命働きました。",
+        "translated_sentence": "3005776",
+        "sentence_id": ""
+    },
+    {
+        "entry": "muscle",
+        "meaning": "〈U〉(動物体の組織としての)筋肉,筋(きん);〈C〉(体の各部を動かす)筋肉  / 〈U〉力,(特に)筋力,腕力",
+        "ipa": "/ˈmʌsəl/",
+        "word_id": "27897",
+        "example_sentence": "He has strong muscles from working out regularly.",
+        "translated_sentence": "彼は定期的にトレーニングをしているので、筋肉が強いです。",
+        "sentence_id": "3001742"
+    },
+    {
+        "entry": "musician",
+        "meaning": "音楽家,楽士  / 《おもに英》作曲家",
+        "ipa": "/mjuˈzɪʃən/",
+        "word_id": "27923",
+        "example_sentence": "The musician played a beautiful melody on the piano.",
+        "translated_sentence": "ピアニストは美しい旋律を弾いた。",
+        "sentence_id": "1623596"
+    },
+    {
+        "entry": "bus",
+        "meaning": "バス",
+        "ipa": "/bʌs/",
+        "word_id": "5676",
+        "example_sentence": "I will take the bus to school.",
+        "translated_sentence": "学校へはバスに乗るつもりです。",
+        "sentence_id": "1624051"
+    },
+    {
+        "entry": "potentially",
+        "meaning": "潜在的に, 可能性を秘めて",
+        "ipa": "/pəˈtɛnʃəli/",
+        "word_id": "32843",
+        "example_sentence": "He is potentially the best candidate for the job.",
+        "translated_sentence": "彼は最高の候補者である可能性がある。",
+        "sentence_id": "1628197"
+    },
+    {
+        "entry": "replace",
+        "meaning": "取り替える；取って代わる；戻す、買い換える",
+        "ipa": "/rɪˈpleɪs/",
+        "word_id": "35661",
+        "example_sentence": "I need to replace the broken light bulb.",
+        "translated_sentence": "壊れた電球を取り替える必要があります。",
+        "sentence_id": "3003744"
+    },
+    {
+        "entry": "series",
+        "meaning": "〈C〉(関連のあるもの・同種のものの) 連続 / (同種の貨幣・切手などの)一組 / (テレビ番組などの)連続物 / (電気の)直列",
+        "ipa": "/ˈsɪəriːz/",
+        "word_id": "38213",
+        "example_sentence": "I am currently watching a series on Netflix.",
+        "translated_sentence": "私は現在、Netflixでシリーズを視聴しています。",
+        "sentence_id": "3004361"
+    },
+    {
+        "entry": "stability",
+        "meaning": "〈U〉安定, 安定性 / (人・意志などの)着実,強固,不変",
+        "ipa": "/stəˈbɪləti/",
+        "word_id": "40635",
+        "example_sentence": "The stability of the economy is crucial for the country's development.",
+        "translated_sentence": "経済の安定は国の発展にとって重要です。",
+        "sentence_id": "1652390"
+    },
+    {
+        "entry": "staff",
+        "meaning": "【名詞】職員 / 【名詞】スタッフ",
+        "ipa": "/stæf/",
+        "word_id": "40651",
+        "example_sentence": "The staff at the hotel were very helpful and friendly.",
+        "translated_sentence": "ホテルのスタッフはとても親切でフレンドリーでした。",
+        "sentence_id": "3005014"
+    },
+    {
+        "entry": "text",
+        "meaning": "原文 / 本文 / 教科書 / (議論・演説などの)主題、題目",
+        "ipa": "/tɛkst/",
+        "word_id": "42957",
+        "example_sentence": "The text of the book is written in a clear and concise manner.",
+        "translated_sentence": "この本の本文は明瞭かつ簡潔に書かれている。",
+        "sentence_id": "3005622"
+    },
+    {
+        "entry": "neighbor",
+        "meaning": "〈C〉隣人, 近所の人 / 同胞, 仲間",
+        "ipa": "/ˈneɪ.bər/",
+        "word_id": "28345",
+        "example_sentence": "My neighbor is a friendly person.",
+        "translated_sentence": "私の隣人は親切な人です。",
+        "sentence_id": "1623601"
+    },
+    {
+        "entry": "myself",
+        "meaning": "《強意用法》《Iと同格に用いて》私自身  / 《再帰用法》《動詞・前置詞の目的語として》私自身を(に),自分を(に)",
+        "ipa": "/maɪˈsɛlf/",
+        "word_id": "27998",
+        "example_sentence": "I can take care of it myself.",
+        "translated_sentence": "自分で対処できます。",
+        "sentence_id": "3001758"
+    },
+    {
+        "entry": "steel",
+        "meaning": "〈U〉鋼鉄 / 〈C〉鋼鉄製品",
+        "ipa": "/stiːl/",
+        "word_id": "40884",
+        "example_sentence": "The construction of the building required a lot of steel.",
+        "translated_sentence": "建物の建設にはたくさんの鋼鉄が必要でした。",
+        "sentence_id": "3005080"
+    },
+    {
+        "entry": "yard",
+        "meaning": "〈C〉ヤード(長さの単位で3フィート,約91.4センチ) / (日本で布を測るときの)ヤール / (特に建築業で)1立方ヤード",
+        "ipa": "/jɑːrd/",
+        "word_id": "48064",
+        "example_sentence": "The kids are playing in the yard.",
+        "translated_sentence": "子供たちは庭で遊んでいます。",
+        "sentence_id": "3006922"
+    },
+    {
+        "entry": "agenda",
+        "meaning": "会議事項,議事日程;備忘録",
+        "ipa": "/əˈdʒɛndə/",
+        "word_id": "807",
+        "example_sentence": "Please make sure to review the agenda before the meeting.",
+        "translated_sentence": "会議前に必ず議題を確認してください。",
+        "sentence_id": "2995859"
+    },
+    {
+        "entry": "repair",
+        "meaning": "〈U〉修繕, 修理",
+        "ipa": "/rɪˈpɛər/",
+        "word_id": "35628",
+        "example_sentence": "I need to repair my car.",
+        "translated_sentence": "私は車を修理する必要があります。",
+        "sentence_id": "3003734"
+    },
+    {
+        "entry": "subsequent",
+        "meaning": "【形容詞】その後に続く",
+        "ipa": "/səbˈsɛkwənt/",
+        "word_id": "41537",
+        "example_sentence": "The subsequent events were unexpected.",
+        "translated_sentence": "その後の出来事は予想外でした。",
+        "sentence_id": "3005235"
+    },
+    {
+        "entry": "rear",
+        "meaning": "〈C〉(ある物の)背後, 後方 / (ある物の)後部 / (軍・艦隊などの)最後尾,後衛 / 【形】後方の / 後部の",
+        "ipa": "/ɹɪər/",
+        "word_id": "34997",
+        "example_sentence": "I looked in the rearview mirror to check for any cars behind me.",
+        "translated_sentence": "私は後ろを見るためにバックミラーを見ました。",
+        "sentence_id": "3003522"
+    },
+    {
+        "entry": "numerous",
+        "meaning": "非常に多い,多数の(very many)  / 多数から成る(を含む)",
+        "ipa": "/ˈnuːmərəs/",
+        "word_id": "29055",
+        "example_sentence": "There are numerous books in the library.",
+        "translated_sentence": "図書館には非常に多くの本があります。",
+        "sentence_id": "3002044"
+    },
+    {
+        "entry": "supply",
+        "meaning": "〈他〉《...に》〈不足物・必要物〉を供給する《to, for ...》 / 《...を》〈人・物〉に供給する《with ...》",
+        "ipa": "/səˈplaɪ/",
+        "word_id": "41892",
+        "example_sentence": "They supplied the villagers with food.",
+        "translated_sentence": "彼らは村人たちに食料を供給した。",
+        "sentence_id": "22389"
+    },
+    {
+        "entry": "tip",
+        "meaning": "〈C〉チップ, 心付け,祝儀 / 《...に関する ...からの》内報, 秘密情報《for, on ... from ...》 / 《...についての》ヒント, 助言《on ...》 /",
+        "ipa": "/tɪp/",
+        "word_id": "43479",
+        "example_sentence": "Here's a helpful tip: always double-check your work before submitting it.",
+        "translated_sentence": "ここに役立つヒントがあります：提出する前に常に作業をダブルチェックしてください。",
+        "sentence_id": "3005709"
+    },
+    {
+        "entry": "wound",
+        "meaning": "〈C〉(身体の) 傷,負傷 / 《感情・自尊心などに対する》 痛手《to ...》",
+        "ipa": "/waʊnd/",
+        "word_id": "47911",
+        "example_sentence": "She had a deep wound on her leg.",
+        "translated_sentence": "彼女は脚に深い傷を負っていた。",
+        "sentence_id": "3006878"
+    },
+    {
+        "entry": "mean",
+        "meaning": "〈人が〉…を意図する, ...のつもりである / 〈単語・句・文章などが〉…を意味を持つ, を意味する",
+        "ipa": "/miːn/",
+        "word_id": "26221",
+        "example_sentence": "What do you mean?",
+        "translated_sentence": "何を意味していますか？",
+        "sentence_id": "3001299"
+    },
+    {
+        "entry": "athlete",
+        "meaning": "競技者,運動家 / 強壮な人;《英》陸上競技選手",
+        "ipa": "/ˈæθ.liːt/",
+        "word_id": "2507",
+        "example_sentence": "The athlete trained hard every day to improve his performance.",
+        "translated_sentence": "その競技者は、パフォーマンスを向上させるために毎日厳しくトレーニングしていました。",
+        "sentence_id": "2996323"
+    },
+    {
+        "entry": "ourselves",
+        "meaning": "《強意用法》《weと同格に用いて》私たち自身,自分たちみずから  / 《再帰用法》《動詞・前置詞の目的語として》私たち自身を(に),自分たちを(に)  / 《まれ》《おもにthan,butなどの後でweの代用として》我々,私たち",
+        "ipa": "/ɑːrˈsɛlvz/",
+        "word_id": "29908",
+        "example_sentence": "We should believe in ourselves and our abilities.",
+        "translated_sentence": "私たちは自分自身と自分の能力を信じるべきです。",
+        "sentence_id": "3002296"
+    },
+    {
+        "entry": "car",
+        "meaning": "自動車(automobile)電車(streetcar)  / 《米》(鉄道の)車両;客車,貨車  / (気球などの)かご;(エレベーターの)箱",
+        "ipa": "/kɑr/",
+        "word_id": "6302",
+        "example_sentence": "I bought a new car.",
+        "translated_sentence": "私は新しい車を買った。",
+        "sentence_id": "1624063"
+    },
+    {
+        "entry": "partnership",
+        "meaning": "〈U〉提携,協力  / 〈U〉組合契約;〈C〉合名会社",
+        "ipa": "/pɑːtnərʃɪp/",
+        "word_id": "30755",
+        "example_sentence": "The two companies formed a partnership to expand their market reach.",
+        "translated_sentence": "2つの会社は市場拡大のために提携を結んだ。",
+        "sentence_id": "3002518"
+    },
+    {
+        "entry": "passenger",
+        "meaning": "〈C〉乗客, 旅客 / 《英話》足手まといな人",
+        "ipa": "/ˈpæsən(d)ʒər/",
+        "word_id": "30782",
+        "example_sentence": "The passenger boarded the plane.",
+        "translated_sentence": "乗客が飛行機に乗りました。",
+        "sentence_id": "3002525"
+    },
+    {
+        "entry": "percentage",
+        "meaning": "百分率,割合  / 《複数形で》見込み,確率",
+        "ipa": "/pərˈsɛntɪdʒ/",
+        "word_id": "31263",
+        "example_sentence": "The percentage of students who passed the exam is 80%.",
+        "translated_sentence": "試験に合格した学生の割合は80％です。",
+        "sentence_id": "3002701"
+    },
+    {
+        "entry": "perfectly",
+        "meaning": "完全に,申し分なく  / 全く,すっかり",
+        "ipa": "/pərˈfɛktli/",
+        "word_id": "31299",
+        "example_sentence": "She perfectly executed the dance routine.",
+        "translated_sentence": "彼女は完全にダンスのルーティンを実行しました。",
+        "sentence_id": "3002711"
+    },
+    {
+        "entry": "lip",
+        "meaning": "〈C〉くちびる,口もと  / 《複数形で》(発音器官としての)くちびる,口  / 〈U〉《俗》生意気な言葉  / 〈C〉(容器などの)口,へり,縁;(峡谷・火山などの)口  / 〈C〉(植物の)唇弁(しんべん)",
+        "ipa": "/lɪp/",
+        "word_id": "24656",
+        "example_sentence": "She applied a coat of lipstick to her lips.",
+        "translated_sentence": "彼女はくちびるに口紅を塗った。",
+        "sentence_id": "3000902"
+    },
+    {
+        "entry": "poet",
+        "meaning": "詩人,歌人  / 詩的才能のある人",
+        "ipa": "/poʊɪt/",
+        "word_id": "32396",
+        "example_sentence": "The poet wrote beautiful verses that touched the hearts of many.",
+        "translated_sentence": "その詩人は多くの人々の心に触れる美しい詩を書いた。",
+        "sentence_id": "3002893"
+    },
+    {
+        "entry": "winner",
+        "meaning": "【名詞】勝者",
+        "ipa": "/'wɪnər/",
+        "word_id": "47577",
+        "example_sentence": "She was declared the winner of the competition.",
+        "translated_sentence": "彼女は競技の勝利者と宣言されました。",
+        "sentence_id": "3006767"
+    },
+    {
+        "entry": "monthly",
+        "meaning": "月1回の,毎月の,月ぎめの  / 1か月間の,1か月続く",
+        "ipa": "/'mʌnθli/",
+        "word_id": "27461",
+        "example_sentence": "I have a monthly meeting with my team.",
+        "translated_sentence": "私はチームと月に１回ミーティングを行っています。",
+        "sentence_id": "3001614"
+    },
+    {
+        "entry": "nothing",
+        "meaning": "何も…ない(not anything ,no thing)  / 少しも…でない  / 〈C〉《単数形で》重用でないこと(人),取るに足りない人  / 〈U〉ゼロ",
+        "ipa": "/ˈnʌθɪŋ/",
+        "word_id": "28938",
+        "example_sentence": "There's nothing I can do.",
+        "translated_sentence": "私にできることは何もない。",
+        "sentence_id": "1623616"
+    },
+    {
+        "entry": "once",
+        "meaning": "(ただ)1度,1回  / かつて,以前  / 《否定文で》一度も(…しない);《条件節で》いったん…すれば  / 1度,1回",
+        "ipa": "/ wʌns /",
+        "word_id": "29538",
+        "example_sentence": "Once I got on the train, I felt relieved.",
+        "translated_sentence": "電車に乗ったら、安心しました。",
+        "sentence_id": "1623629"
+    },
+    {
+        "entry": "pick",
+        "meaning": "〈他〉を選ぶ / を摘む,もぎ取る / つまみとる〈自〉つつく / 精選する",
+        "ipa": "/pɪk/",
+        "word_id": "31784",
+        "example_sentence": "He picked up the pen from the desk.",
+        "translated_sentence": "彼は机からペンを拾い上げた。",
+        "sentence_id": "1623656"
+    },
+    {
+        "entry": "service",
+        "meaning": "〈U〉〈C〉奉仕 / 公共事業 / 〈U〉職員業務 / サービス / 役立つこと",
+        "ipa": "/'sɜːrvɪs/",
+        "word_id": "38239",
+        "example_sentence": "The customer service at this restaurant is excellent.",
+        "translated_sentence": "このレストランのサービスは素晴らしいです。",
+        "sentence_id": "3004373"
+    },
+    {
+        "entry": "powerful",
+        "meaning": "強力な / 効果的な / 有力な",
+        "ipa": "/paʊərfl/",
+        "word_id": "32915",
+        "example_sentence": "She has a powerful voice.",
+        "translated_sentence": "彼女は力強い声を持っています。",
+        "sentence_id": "3003021"
+    },
+    {
+        "entry": "release",
+        "meaning": "解放する / 公開する,発表する",
+        "ipa": "/rɪˈliːs/",
+        "word_id": "35492",
+        "example_sentence": "The company plans to release a new product next month.",
+        "translated_sentence": "会社は来月新製品を発売する予定です。",
+        "sentence_id": "3003674"
+    },
+    {
+        "entry": "repeat",
+        "meaning": "〈自分がすでに一度言ったこと)‘を'繰り返して言う  / 〈他人の言ったこと〉‘を'おうむ返しに言う;…‘を'他の人に繰り返して言う  / …‘を'暗記して言う,暗唱する  / …‘を'繰り返して行う(do again)  / (食べたあとで)〈食物の〉味が残る  / 〈小数が〉循環する",
+        "ipa": "/rɪˈpiːt/",
+        "word_id": "35643",
+        "example_sentence": "I will repeat the same question again.",
+        "translated_sentence": "同じ質問をもう一度繰り返します。",
+        "sentence_id": "1623716"
+    },
+    {
+        "entry": "score",
+        "meaning": "(ゲーム・競技の)スコア,得点記録  / (ゲーム・競技の)得点  / (試験の)点数,評点  / 《おもに文》20[の単位]  / 《複数形で》多数(の…)《+of+名》  / 《まれ》勘定,借金  / 《単数形で》理由,根拠,原因  / (またscore mark)刻み目,線,印  / 総譜,楽譜",
+        "ipa": "/skɔr/",
+        "word_id": "37492",
+        "example_sentence": "The final score was calculated based on the average of all the individual scores.",
+        "translated_sentence": "最終得点は、個々の得点の平均に基づいて計算されました。",
+        "sentence_id": "3009187"
+    },
+    {
+        "entry": "pregnancy",
+        "meaning": "【名詞】妊娠",
+        "ipa": "/prɛɡnənsi/",
+        "word_id": "33100",
+        "example_sentence": "She is experiencing a healthy pregnancy.",
+        "translated_sentence": "彼女は健康な妊娠を経験しています。",
+        "sentence_id": "3003071"
+    },
+    {
+        "entry": "season",
+        "meaning": "季,季節(春夏秋冬の4季節のそれぞれ)  / (一年のうちの,ある気候の)時季,時節  / (果物などの)出盛り,(…の)盛んな時期  / (一般に)時節,時期 / 《…に》ふさわしい時,《…の》好期《for ...》",
+        "ipa": "/siːzən/",
+        "word_id": "37736",
+        "example_sentence": "I love the autumn season.",
+        "translated_sentence": "私は秋の季節が大好きです。",
+        "sentence_id": "3004251"
+    },
+    {
+        "entry": "seed",
+        "meaning": "〈U〉〈C〉種,種子  / 〈C〉《複数形で》(物事・事件などの)原因,根源,種  / 〈U〉(聖書で)子供たち,子孫  / 〈土地〉‘に'種をまく,まく;(…を)…‘に'まく《+名+with+名》  / 〈果物など〉‘の'種を除く  / 〈チーム・競技者など〉‘を'シードする  / (人工雨を降らすため)〈雲〉‘に'ドライアイス(その他の化学薬品)を散布する  / 〈植物が〉種(実)を生ずる;種(実)を落とす",
+        "ipa": "/siːd/",
+        "word_id": "37863",
+        "example_sentence": "She planted the seed in the garden.",
+        "translated_sentence": "彼女は庭に種を植えました。",
+        "sentence_id": "3004289"
+    },
+    {
+        "entry": "printer",
+        "meaning": "印刷する人(機械);印刷屋  / (コンピューターの)文字打ち出し機　プリンター",
+        "ipa": "/ˈprɪntər/",
+        "word_id": "33396",
+        "example_sentence": "I need to buy a new printer for my office.",
+        "translated_sentence": "オフィス用に新しいプリンターを買わなければなりません。",
+        "sentence_id": "3003152"
+    },
+    {
+        "entry": "producer",
+        "meaning": "生産者;産出地  / (劇・映画などの)製作者,プロデューサー",
+        "ipa": "/prəˈdjuːsər/",
+        "word_id": "33519",
+        "example_sentence": "The producer is responsible for overseeing the manufacturing process.",
+        "translated_sentence": "生産者は製造プロセスの監督を担当しています。",
+        "sentence_id": "1645248"
+    },
+    {
+        "entry": "snap",
+        "meaning": "パチン(ポキン,カチッ,ピシッ)と音をたてる / 〈木の枝などが〉ポキッと折れる,〈糸などが〉プツンと切れる / 〈戸・ふた・カギなどが〉パチン(カチッなど)と音をたてて(…の状態に)なる《+形〈補〉》 / (…に)ぱくっとかみつく《+at+名》 / …‘を'パチン(ピシッ)と音をさせる / …‘を'ポキッと折る,プツンと切る;…‘を'パチッと締める / 〈命令・応答など〉‘を'ピシッと言う《+out+名,+名+out》 / 《話》〈スナップ写真〉‘を'撮る",
+        "ipa": "/snæp/",
+        "word_id": "39588",
+        "example_sentence": "The pup snapped at my hand.",
+        "translated_sentence": "小犬は私の手にかみついた。",
+        "sentence_id": "61298"
+    },
+    {
+        "entry": "promote",
+        "meaning": "…‘を'助長する,促進する,増進する  / (…に)…‘を'昇進させる,進級させる《+名+to+名》  / 〈議案など〉‘を'通過するように努力する  / 〈会社・事業〉‘を'発起する;〈興業〉‘を'主催する  / 〈商品など〉‘の'販売促進をする",
+        "ipa": "/prəˈmoʊt/",
+        "word_id": "33623",
+        "example_sentence": "Social media can promote the spread of information.",
+        "translated_sentence": "ソーシャルメディアは情報の拡散を助長することができます。",
+        "sentence_id": "3003219"
+    },
+    {
+        "entry": "spirit",
+        "meaning": "〈U〉精神,心  / 〈C〉(超自然の)霊魂,霊;幽霊,妖精  / 〈C〉《形容詞を伴って》(ある気資・性格をもった)人  / 〈U〉元気,活気  / 〈U〉《時にa ~》気立て,気質;意気,気概  / 《複数形で》気分,きげん  / 〈U〉(団体などに対する)忠誠心,献心  / 〈C〉(全体に流れる)傾向,風潮  / 〈U〉《the ~》(法などの)精神  / 《複数形で》アルコール;強い酒",
+        "ipa": "/'spɪrɪt/",
+        "word_id": "40350",
+        "example_sentence": "She has a strong spirit.",
+        "translated_sentence": "彼女は強い精神を持っています。",
+        "sentence_id": "3004841"
+    },
+    {
+        "entry": "convert",
+        "meaning": "〈他〉〖~ A into [to] B〗AをBに変える,転換する〈自〉変わる,転換する",
+        "ipa": "/kənˈvɜrt/",
+        "word_id": "9319",
+        "example_sentence": "I need to convert the file to a different format.",
+        "translated_sentence": "ファイルを別の形式に変換する必要があります。",
+        "sentence_id": "3009876"
+    },
+    {
+        "entry": "warm",
+        "meaning": "暖かい,思いやりのある / 興奮した / 暖色の / 生々しい",
+        "ipa": "/wɔrm/",
+        "word_id": "46692",
+        "example_sentence": "The warm sun was shining through the window.",
+        "translated_sentence": "太陽が窓を通して暖かく輝いていた。",
+        "sentence_id": "1623939"
+    },
+    {
+        "entry": "part",
+        "meaning": "〈C〉(全体を構成する) 部分 / 〈U〉《しばしばa ...》《…の》一部, 一部分《of ...》 / 〈C〉(仕事などの)役目",
+        "ipa": "/pɑːrt/",
+        "word_id": "30710",
+        "example_sentence": "I need you to be a part of this project.",
+        "translated_sentence": "このプロジェクトの一部として参加してもらいたい。",
+        "sentence_id": "3002500"
+    },
+    {
+        "entry": "childhood",
+        "meaning": "幼時,子供時代",
+        "ipa": "/ˈtʃaɪldhʊd/",
+        "word_id": "7288",
+        "example_sentence": "I have many fond memories from my childhood.",
+        "translated_sentence": "私には子供の頃の楽しい思い出がたくさんあります。",
+        "sentence_id": "3009439"
+    }
+]

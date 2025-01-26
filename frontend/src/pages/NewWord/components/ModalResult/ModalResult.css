@@ -1,0 +1,11 @@
+.Imgs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+img.mx-auto {
+  max-height: 20vh;
+  flex-grow: 1;
+  padding: 0 3px;
+}
