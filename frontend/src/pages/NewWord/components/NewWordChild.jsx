@@ -39,7 +39,7 @@ export const NewWordChild = () => {
     const fetchCard = async () => {
       const response = await axios.get(
         // `${APIURL}/users/${user._id}/cards?cardTitle=${cardTitle}`
-        `http://localhost:5000/api/users/${user._id}/cards?cardTitle=${cardTitle}`
+        `${import.meta.env.APIURL}/users/${user._id}/cards?cardTitle=${cardTitle}`
       );
       setCard(response.data);
     };
@@ -64,7 +64,7 @@ export const NewWordChild = () => {
     };
     // console.log(card);
     await axios.post(
-      `http://localhost:5000/api/users/${user._id}/cards/${card._id}/words`,
+      `${import.meta.env.APIURL}/users/${user._id}/cards/${card._id}/words`,
       newWord
     );
     navigate(`/card?cardTitle=${cardTitle}`);
@@ -75,7 +75,7 @@ export const NewWordChild = () => {
     const weblioSearch = async () => {
       try {
         const response = await axios.get(
-          `http://localhost:5000/api/users/${user._id}/words/getFromWeblio?word=${word}`
+          `${import.meta.env.APIURL}/users/${user._id}/words/getFromWeblio?word=${word}`
         );
         const resData = response.data;
         console.log(response.data);
