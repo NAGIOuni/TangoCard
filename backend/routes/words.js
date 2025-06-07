@@ -78,6 +78,7 @@ router.get("/:id/words", async (req, res) => {
 
 router.get("/:id/words/getFromWeblio", async (req, res) => {
   try {
+    console.log(req.query.word);
     const URL = `http://ei-navi.jp/dictionary/content/${req.query.word}/`;
     const response = await axios(URL);
     const htmlParser = response.data;

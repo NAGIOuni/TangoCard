@@ -19,6 +19,7 @@ export const CandMContext = createContext();
 export const CandMDispatchContext = createContext();
 
 export const CandMProvider = ({ children }) => {
+  console.log("initialCandMs", initialCandMs);
   const [CandMs, dispatch] = useReducer(CandMReducer, initialCandMs);
 
   return (

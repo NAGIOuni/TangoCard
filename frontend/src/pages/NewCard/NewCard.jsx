@@ -26,7 +26,7 @@ export default function NewCard() {
     };
 
     const response = await axios.post(
-      `http://localhost:5000/api/users/${user._id}/cards`,
+      `http://localhost:5000/api/cards/${user._id}/cards`,
       newCard
     );
     console.log(response.data);

@@ -22,6 +22,7 @@ export const CandMlist = () => {
       ],
     };
     dispatch({ type: "CandM/add", CandM: newCandM });
+    console.log(CandMs);
   };
 
   return (

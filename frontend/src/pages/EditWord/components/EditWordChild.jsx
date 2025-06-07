@@ -42,7 +42,7 @@ export const EditWordChild = () => {
     const fetchCard = async () => {
       const response = await axios.get(
         // `${APIURL}/users/${user._id}/cards?cardTitle=${cardTitle}`
-        `${import.meta.env.VITE_APIURL}/users/${
+        `${import.meta.env.VITE_APIURL}/words/${
           user._id
         }/cards?cardTitle=${cardTitle}`
       );
@@ -69,7 +69,7 @@ export const EditWordChild = () => {
     };
     // console.log(card);
     await axios.post(
-      `${import.meta.env.VITE_APIURL}/users/${user._id}/cards/${
+      `${import.meta.env.VITE_APIURL}/words/${user._id}/cards/${
         card._id
       }/words`,
       newWord

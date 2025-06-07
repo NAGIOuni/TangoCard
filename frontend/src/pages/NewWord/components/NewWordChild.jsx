@@ -39,8 +39,11 @@ export const NewWordChild = () => {
     const fetchCard = async () => {
       const response = await axios.get(
         // `${APIURL}/users/${user._id}/cards?cardTitle=${cardTitle}`
-        `${import.meta.env.APIURL}/users/${user._id}/cards?cardTitle=${cardTitle}`
+        `${import.meta.env.VITE_APIURL}/cards/${
+          user._id
+        }/cards?cardTitle=${cardTitle}`
       );
+      console.log(response.data);
       setCard(response.data);
     };
     fetchCard();
@@ -64,7 +67,9 @@ export const NewWordChild = () => {
     };
     // console.log(card);
     await axios.post(
-      `${import.meta.env.APIURL}/users/${user._id}/cards/${card._id}/words`,
+      `${import.meta.env.VITE_APIURL}/words/${user._id}/cards/${
+        card._id
+      }/words`,
       newWord
     );
     navigate(`/card?cardTitle=${cardTitle}`);
@@ -74,15 +79,23 @@ export const NewWordChild = () => {
     e.preventDefault();
     const weblioSearch = async () => {
       try {
+        console.log(word);
         const response = await axios.get(
-          `${import.meta.env.APIURL}/users/${user._id}/words/getFromWeblio?word=${word}`
+          `${import.meta.env.VITE_APIURL}/words/${
+            user._id
+          }/words/getFromWeblio?word=${word}`
         );
         const resData = response.data;
-        console.log(response.data);
+        console.log(resData);
+        console.log(resData.CandMs);
         setPronSign(resData.pronSign);
         setExample(resData.example);
         setExampleJpn(resData.exampleJpn);
-        await dispatch({ type: "CandMs/update", CandMs: resData.CandMs });
+        if (Array.isArray(resData.CandMs)) {
+          await dispatch({ type: "CandMs/update", CandMs: resData.CandMs });
+        } else {
+          console.log("APIが配列を返していません", resData);
+        }
         // const newWord = {
         //   word: word,
         //   meanings: CandMs,
@@ -140,7 +153,7 @@ export const NewWordChild = () => {
                       width: "100%",
                     }}
                     onChange={(e) => setWord(e.target.value)}
-                    value={word}
+                    value={word ?? ""}
                   />
                 </div>
                 <div className="col-3 m-auto">
@@ -149,7 +162,7 @@ export const NewWordChild = () => {
                     className="form-control"
                     placeholder="発音記号"
                     onChange={(e) => setPronSign(e.target.value)}
-                    value={pronSign}
+                    value={pronSign ?? ""}
                   />
                 </div>
                 <div className="col-3 m-auto">
@@ -166,7 +179,7 @@ export const NewWordChild = () => {
                   id="image"
                   placeholder="イメージURL"
                   onChange={(e) => setImage(e.target.value)}
-                  value={image}
+                  value={image ?? ""}
                 />
                 <a
                   href="/"
@@ -189,7 +202,7 @@ export const NewWordChild = () => {
                     id="example"
                     placeholder="英文"
                     onChange={(e) => setExample(e.target.value)}
-                    value={example}
+                    value={example ?? ""}
                   />
                   <textarea
                     type="text"
@@ -197,7 +210,7 @@ export const NewWordChild = () => {
                     id="example"
                     placeholder="日本語訳"
                     onChange={(e) => setExampleJpn(e.target.value)}
-                    value={exampleJpn}
+                    value={exampleJpn ?? ""}
                   />
                 </div>
               </div>

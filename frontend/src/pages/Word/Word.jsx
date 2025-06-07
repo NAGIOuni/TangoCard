@@ -19,7 +19,7 @@ export default function Word() {
   useEffect(() => {
     const fetchWord = async () => {
       const response = await axios.get(
-        `${import.meta.env.VITE_APIURL}/users/${user._id}/word?word=${qWord}`
+        `${import.meta.env.VITE_APIURL}/words/${user._id}/word?word=${qWord}`
       );
       setWord(response.data);
     };
@@ -32,7 +32,7 @@ export default function Word() {
       state: word.state + 1,
     };
     await axios.put(
-      `${import.meta.env.VITE_APIURL}/users/${user._id}/words/${word._id}`,
+      `${import.meta.env.VITE_APIURL}/words/${user._id}/words/${word._id}`,
       newWord
     );
     navigate(`/card?cardTitle=${cardTitle}`);

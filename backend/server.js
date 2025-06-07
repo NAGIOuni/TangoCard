@@ -30,8 +30,8 @@ app.use("/images", express.static(path.join(__dirname, "public/imgs")));
 app.use(express.json());
 app.use("/api/users", cors(corsOptions), userRoute);
 app.use("/api/auth", cors(corsOptions), authRoute);
-app.use("/api/users", cors(corsOptions), cardRoute);
-app.use("/api/users", cors(corsOptions), wordRoute);
+app.use("/api/cards", cors(corsOptions), cardRoute);
+app.use("/api/words", cors(corsOptions), wordRoute);
 
 app.get("/", (req, res) => {
   res.send("hello express");
