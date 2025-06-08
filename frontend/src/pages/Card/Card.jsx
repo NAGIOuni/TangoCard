@@ -16,7 +16,7 @@ export default function Card() {
   useEffect(() => {
     const fetchWords = async () => {
       const response = await axios.get(
-        `${import.meta.env.VITE_APIURL}/cards/${
+        `${import.meta.env.VITE_APIURL}/words/${
           user._id
         }/words?cardTitle=${cardTitle}`
       );

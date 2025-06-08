@@ -12,7 +12,7 @@ export default function Show() {
   useEffect(() => {
     const fetchCards = async () => {
       const response = await axios.get(
-        `${import.meta.env.VITE_APIURL}/users/${user._id}/cards`
+        `${import.meta.env.VITE_APIURL}/cards/${user._id}/cards`
       );
       // console.log(response.data);
       setCards(response.data);

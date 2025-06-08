@@ -44,7 +44,7 @@ export default function Word() {
       state: word.state - 1,
     };
     await axios.put(
-      `${import.meta.env.VITE_APIURL}/users/${user._id}/words/${word._id}`,
+      `${import.meta.env.VITE_APIURL}/words/${user._id}/words/${word._id}`,
       newWord
     );
     navigate(`/card?cardTitle=${cardTitle}`);
@@ -52,7 +52,7 @@ export default function Word() {
 
   const deleteWord = async () => {
     await axios.delete(
-      `${import.meta.env.APIURL}/users/${user._id}/words/${word._id}`
+      `${import.meta.env.VITE_APIURL}/words/${user._id}/words/${word._id}`
     );
     navigate(`/card?cardTitle=${cardTitle}`);
   };
