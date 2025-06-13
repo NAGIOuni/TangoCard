@@ -22,7 +22,14 @@ export default function Word() {
         `${import.meta.env.VITE_APIURL}/words/${user._id}/word?word=${qWord}`
       );
       setWord(response.data);
+      // ↓↓↓ デバッグログを追加 ↓↓↓
+      console.log("現在のユーザーID:", user._id);
+      console.log(
+        "取得した単語の作成者ID:",
+        response.data.creator?._id || response.data.creator
+      );
     };
+
     fetchWord();
   }, [user]);
 
@@ -51,10 +58,14 @@ export default function Word() {
   };
 
   const deleteWord = async () => {
-    await axios.delete(
-      `${import.meta.env.VITE_APIURL}/words/${user._id}/words/${word._id}`
-    );
-    navigate(`/card?cardTitle=${cardTitle}`);
+    try {
+      await axios.delete(
+        `${import.meta.env.VITE_APIURL}/words/${user._id}/words/${word._id}`
+      );
+      navigate(`/card?cardTitle=${cardTitle}`);
+    } catch (err) {
+      console.error("削除に失敗しました", err.response?.data || err.message);
+    }
   };
 
   return (
